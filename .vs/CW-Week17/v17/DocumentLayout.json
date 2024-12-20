@@ -1,0 +1,367 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|c:\\users\\shaha\\source\\repos\\cw-week17-parta\\cw-week17\\src\\mvc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|solutionrelative:src\\mvc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|c:\\users\\shaha\\source\\repos\\cw-week17-parta\\cw-week17\\src\\mvc\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|solutionrelative:src\\mvc\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|c:\\users\\shaha\\source\\repos\\cw-week17-parta\\cw-week17\\src\\mvc\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|solutionrelative:src\\mvc\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|c:\\users\\shaha\\source\\repos\\cw-week17-parta\\cw-week17\\src\\mvc\\repository\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|solutionrelative:src\\mvc\\repository\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|c:\\users\\shaha\\source\\repos\\cw-week17-parta\\cw-week17\\src\\mvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|solutionrelative:src\\mvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|c:\\users\\shaha\\source\\repos\\cw-week17-parta\\cw-week17\\src\\mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|solutionrelative:src\\mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|c:\\users\\shaha\\source\\repos\\cw-week17-parta\\cw-week17\\src\\mvc\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|solutionrelative:src\\mvc\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|c:\\users\\shaha\\source\\repos\\cw-week17-parta\\cw-week17\\src\\mvc\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|solutionrelative:src\\mvc\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|c:\\users\\shaha\\source\\repos\\cw-week17-parta\\cw-week17\\src\\mvc\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|solutionrelative:src\\mvc\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|c:\\users\\shaha\\source\\repos\\cw-week17-parta\\cw-week17\\src\\mvc\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|solutionrelative:src\\mvc\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|c:\\users\\shaha\\source\\repos\\cw-week17-parta\\cw-week17\\src\\mvc\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|solutionrelative:src\\mvc\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|c:\\users\\shaha\\source\\repos\\cw-week17-parta\\cw-week17\\src\\mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|solutionrelative:src\\mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|c:\\users\\shaha\\source\\repos\\cw-week17-parta\\cw-week17\\src\\mvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|solutionrelative:src\\mvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|c:\\users\\shaha\\source\\repos\\cw-week17-parta\\cw-week17\\src\\mvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|solutionrelative:src\\mvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|c:\\users\\shaha\\source\\repos\\cw-week17-parta\\cw-week17\\src\\mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|solutionrelative:src\\mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|c:\\users\\shaha\\source\\repos\\cw-week17-parta\\cw-week17\\src\\mvc\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|solutionrelative:src\\mvc\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|c:\\users\\shaha\\source\\repos\\cw-week17-parta\\cw-week17\\src\\mvc\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|solutionrelative:src\\mvc\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|c:\\users\\shaha\\source\\repos\\cw-week17-parta\\cw-week17\\src\\mvc\\repository\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|solutionrelative:src\\mvc\\repository\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|c:\\users\\shaha\\source\\repos\\cw-week17-parta\\cw-week17\\src\\mvc\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|solutionrelative:src\\mvc\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|c:\\users\\shaha\\source\\repos\\cw-week17-parta\\cw-week17\\src\\mvc\\migrations\\20241220065534_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|solutionrelative:src\\mvc\\migrations\\20241220065534_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|c:\\users\\shaha\\source\\repos\\cw-week17-parta\\cw-week17\\src\\mvc\\migrations\\20241220065534_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4263E379-E900-4A6B-B981-EC9E2EB6F1C8}|src\\MVC\\MVC.csproj|solutionrelative:src\\mvc\\migrations\\20241220065534_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "src\\MVC\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "src\\MVC\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:06:49.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "src\\MVC\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Services\\CategoryService.cs",
+              "RelativeToolTip": "src\\MVC\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:08:02.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "src\\MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T07:06:26.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "src\\MVC\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "src\\MVC\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T18:13:36.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "src\\MVC\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "src\\MVC\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAcwDgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:30:00.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Repository\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "src\\MVC\\Repository\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Repository\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "src\\MVC\\Repository\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:05:58.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\MVC\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\MVC\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T05:57:53.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\MVC\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "src\\MVC\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwBgAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T06:34:53.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "src\\MVC\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "src\\MVC\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T18:13:15.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "src\\MVC\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "src\\MVC\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:07:39.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "src\\MVC\\Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "src\\MVC\\Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:07:51.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "src\\MVC\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "src\\MVC\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:30:35.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "src\\MVC\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Models\\Category.cs",
+              "RelativeToolTip": "src\\MVC\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T05:54:13.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\MVC\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "src\\MVC\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T06:35:28.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "src\\MVC\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Models\\Product.cs",
+              "RelativeToolTip": "src\\MVC\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T05:54:36.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "src\\MVC\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "src\\MVC\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:06:59.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "src\\MVC\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Services\\ProductService.cs",
+              "RelativeToolTip": "src\\MVC\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:08:10.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Repository\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "src\\MVC\\Repository\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Repository\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "src\\MVC\\Repository\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:06:26.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "src\\MVC\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "src\\MVC\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:14:28.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241220065534_init.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Migrations\\20241220065534_init.Designer.cs",
+              "RelativeDocumentMoniker": "src\\MVC\\Migrations\\20241220065534_init.Designer.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Migrations\\20241220065534_init.Designer.cs",
+              "RelativeToolTip": "src\\MVC\\Migrations\\20241220065534_init.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:14:17.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241220065534_init.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Migrations\\20241220065534_init.cs",
+              "RelativeDocumentMoniker": "src\\MVC\\Migrations\\20241220065534_init.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week17-PartA\\CW-Week17\\src\\MVC\\Migrations\\20241220065534_init.cs",
+              "RelativeToolTip": "src\\MVC\\Migrations\\20241220065534_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:55:34.481Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
