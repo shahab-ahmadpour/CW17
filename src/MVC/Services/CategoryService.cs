@@ -7,11 +7,11 @@ namespace MVC.Services
 {
     public class CategoryService : ICategoryService
     {
-        private readonly ICategoryRepository _categoryRepository;
+        private readonly CategoryRepository _categoryRepository;
 
-        public CategoryService()
+        public CategoryService(CategoryRepository categoryRepository)
         {
-            _categoryRepository = new CategoryRepository();
+            _categoryRepository = categoryRepository;
         }
 
         public List<Category> GetAllCategories()

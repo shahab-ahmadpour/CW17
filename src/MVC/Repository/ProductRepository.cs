@@ -10,9 +10,9 @@ namespace MVC.Repository
     {
         private readonly ApplicationDbContext _context;
 
-        public ProductRepository()
+        public ProductRepository(ApplicationDbContext context)
         {
-            _context = new ApplicationDbContext();
+            _context = context;
         }
 
         public List<Product> GetAll()

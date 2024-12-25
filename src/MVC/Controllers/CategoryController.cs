@@ -12,9 +12,9 @@ namespace MVC.Controllers
 
         public CategoryController()
         {
-            //var dbContext = new ApplicationDbContext();
-            //var categoryRepository = new CategoryRepository(dbContext);
-            _categoryService = new CategoryService();
+            var dbContext = new ApplicationDbContext();
+            var categoryRepository = new CategoryRepository(dbContext);
+            _categoryService = new CategoryService(categoryRepository);
         }
 
         public IActionResult Index()

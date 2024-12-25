@@ -7,11 +7,11 @@ namespace MVC.Services
 {
     public class ProductService : IProductService
     {
-        private readonly IProductRepository _productRepository;
+        private readonly ProductRepository _productRepository;
 
-        public ProductService()
+        public ProductService(ProductRepository productRepository)
         {
-            _productRepository = new ProductRepository();
+            _productRepository = productRepository;
         }
 
         public List<Product> GetAllProducts()

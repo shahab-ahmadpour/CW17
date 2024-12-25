@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="container mt-5">
+    <h2>Register</h2>
+    <hr />
+    <form method="post" action="/Account/Register">
+        <div class="mb-3">
+            <input placeholder="Username" type="text" class="form-control" id="username" name="username" required />
+        </div>
+        <div class="mb-3">
+            <input placeholder="Password" type="password" class="form-control" id="password" name="password" required />
+        </div>
+        <button type="submit" class="btn btn-success">Submit</button>
+    </form>
+
+    @if (ViewBag.Error != null)
+    {
+        <div class="alert alert-danger mt-3">
+            @ViewBag.Error
+        </div>
+    }
+
+    <div class="mt-3">
+        <h5>Alredy have account?<a href="/Account/Login" class="btn btn-link">Sign in</a></h5>
+    </div>
+</div>

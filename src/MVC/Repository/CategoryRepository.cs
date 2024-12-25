@@ -8,9 +8,9 @@ namespace MVC.Repository
     {
         private readonly ApplicationDbContext _context;
 
-        public CategoryRepository()
+        public CategoryRepository(ApplicationDbContext context)
         {
-            _context = new ApplicationDbContext();
+            _context = context;
         }
 
         public List<Category> GetAll()

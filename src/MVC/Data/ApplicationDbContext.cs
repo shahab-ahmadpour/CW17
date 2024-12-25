@@ -5,8 +5,19 @@ namespace MVC._Data
 {
     public class ApplicationDbContext : DbContext
     {
+        public ApplicationDbContext()
+        {
+        }
+
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+    : base(options)
+        {
+        }
+
         public DbSet<Category> Categories { get; set; }
         public DbSet<Product> Products { get; set; }
+        public DbSet<User> Users { get; set; }
+
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -29,6 +40,13 @@ namespace MVC._Data
                 new Product { Id = 3, Name = "C#", Price = 80, CategoryId = 2 },
                 new Product { Id = 4, Name = "Jeans", Price = 100, CategoryId = 3}
             );
+
+            modelBuilder.Entity<User>().HasData(
+             new User { Id = 1, Username = "shahab", Password = "12345" },
+             new User { Id = 2, Username = "admin", Password = "12345"}
+             );
+
+
         }
     }
 }

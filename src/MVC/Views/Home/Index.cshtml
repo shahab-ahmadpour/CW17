@@ -3,7 +3,12 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome to My CW17 Project</h1>
+    <div class="d-flex justify-content-end">
+        <form asp-controller="Account" asp-action="Logout" method="post">
+            <button type="submit" class="btn btn-danger">Logout</button>
+        </form>
+    </div>
+    <h1 class="display-4">Welcome to My HW18 Project</h1>
     <hr />
     <div class="mt-4">
         <a href="/Product/Index" class="btn btn-primary btn-lg">View Products</a>

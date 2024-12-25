@@ -11,9 +11,9 @@ namespace MVC.Controllers
 
         public ProductController()
         {
-            //var dbContext = new ApplicationDbContext();
-            //var productRepository = new ProductRepository(dbContext);
-            _productService = new ProductService();
+            var dbContext = new ApplicationDbContext();
+            var productRepository = new ProductRepository(dbContext);
+            _productService = new ProductService(productRepository);
         }
 
         public IActionResult Index()
@@ -22,4 +22,5 @@ namespace MVC.Controllers
             return View(products);
         }
     }
+
 }

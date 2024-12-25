@@ -1,7 +1,25 @@
+﻿using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.EntityFrameworkCore;
+using MVC._Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// Configure database connection
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+// Add Authentication and Session
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+    .AddCookie(options =>
+    {
+        options.LoginPath = "/Account/LoginOrRegister";
+        options.AccessDeniedPath = "/Account/LoginOrRegister";
+    });
+
+builder.Services.AddSession();
 
 var app = builder.Build();
 
@@ -9,7 +27,6 @@ var app = builder.Build();
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 
@@ -18,10 +35,14 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+// Authentication, Authorization, and Session middleware
+app.UseAuthentication();
 app.UseAuthorization();
+app.UseSession();
 
+// Map routes
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Account}/{action=LoginOrRegister}/{id?}");
 
 app.Run();
